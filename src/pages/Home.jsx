@@ -84,7 +84,7 @@ const Home = () => {
     <div>
       <NavBar />
       <div className="surpriseBox">
-        <label>Bring your imaginations into reality!</label>
+        <label>Bring your imaginations into reality using Selene Ai!</label>
       </div>
       <div>
         <input
@@ -166,7 +166,7 @@ const Home = () => {
         onSelect={handleAvailOptions}
       />
       <div className="slideShowMessage">{loaderMessage}</div>
-      <div className="footer">Powered by SegMind</div>
+      <div className="footer">Powered by SELENE AI</div>
     </div>
   );
 };

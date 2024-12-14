@@ -5,14 +5,14 @@ const NavBar = () => {
   return (
     <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" width={100} />
-      <p>GenAI - Image Generator</p>
+      <p>SELENE AI </p>
       <a
         className="App-link"
-        href="https://www.segmind.com/"
+        href="/"
         target="_blank"
         rel="noopener noreferrer"
       >
-        SegMind
+       
       </a>
     </header>
   );
